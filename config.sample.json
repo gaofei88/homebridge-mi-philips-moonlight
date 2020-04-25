@@ -1,0 +1,12 @@
+{
+	"...": "...",
+	"platforms": [{
+		"platform": "MiPhilipsMoonLightPlatform",
+		"devices": [{
+			"type": "MiPhilipsZhiRuiBedsideLamp",
+			"name": "BedSide Lamp",
+			"ip": "REPLACE YOUR IP",
+			"token": "REPLACE YOUR TOKEN"
+		}]
+	}]
+}

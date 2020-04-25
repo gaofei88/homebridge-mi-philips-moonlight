@@ -7,7 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "homebridge-plugin"
+    "homebridge-plugin",
+    "philips",
+    "moonlight"
   ],
   "author": "Gao",
   "license": "ISC",

@@ -1,6 +1,6 @@
 # homebridge-mi-philips-moonlight
 
-An homebridge plugin to support Philips Zhi Rui Bedside Lamp. (飞利浦智睿床头灯)
+A homebridge plugin to support Philips Zhi Rui Bedside Lamp. (飞利浦智睿床头灯)
 
 This repo heavily refers to [Philips Light](https://github.com/YinHangCode/homebridge-mi-philips-light). Due to the lack of support from [miio](https://github.com/aholstenson/miio) for **Philips Zhi Rui Bedside Lamp**, this plugin is depending on the python version miio ([python-miio](https://github.com/rytilahti/python-miio)). Please follow the instruction from python-miio's [Get Started](https://python-miio.readthedocs.io/en/latest/discovery.html#installation) page to have **python-miio** installed and get your **token** ready.
 
